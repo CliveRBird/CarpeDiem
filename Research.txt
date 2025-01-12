@@ -1,0 +1,953 @@
+Kubectl
+
+https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+https://lisafc.github.io/grpc.github.io/docs/tutorials/basic/c.html
+https://grpc.io/blog/grpc-with-json/
+https://github.com/ni/grpc-json-client/blob/main/README.md
+https://github.com/npclaudiu/grpc-cpp-docker/blob/master/README.md
+
+
+BetDAQ Testing
+--------------
+https://github.com/rozzac90/betdaq/blob/master/tests/test_apiclient.py
+
+Serverless UI testing using Selenium, AWS Lambda, AWS Fargate, and AWS Developer Tools
+--------------------------------------------------------------------------------------
+https://aws.amazon.com/blogs/devops/serverless-ui-testing-using-selenium-aws-lambda-aws-fargate-and-aws-developer-tools/
+
+Assuming an AWS role
+--------------------
+https://www.tecracer.com/blog/2021/08/iam-what-happens-when-you-assume-a-role.html
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Creating .Net Core Microservices using Clean Architecture
+----------------------------------------------------------
+https://github.com/rahulsahay19/eShopping/blob/master/readme.md
+
+https://www.youtube.com/watch?v=QPSqF5OqdSw&ab_channel=RahulSahay
+
+
+DDD Explained in 9 MINUTES | What is Domain Driven Design?
+----------------------------------------------------------
+https://www.youtube.com/watch?v=kbGYy49fCz4&ab_channel=MarcoLenzo
+
+Tactical DDD
+
+Domain Model - establishes the core business model. Encapsulates functionality in Entities and avoids an anemic model (purely entities with getters and setters only, no methods on the entity class.). Put business logic in the objects (classes) within the Domain.
+
+- Entities
+- Value Objects
+- Associations
+- Services
+- Aggregate and Factories
+- Repositories
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+								General Introduction to C# Advanced and .NET Microservice Topics
+								----------------------------------------------------------------
+C# Advanced
+-----------
+https://www.youtube.com/watch?v=YT8s-90oDC0&ab_channel=freeCodeCamp.org
+
+Practical example, Containerize the .NET Core 7 Web API with Docker and Kubernetes
+----------------------------------------------------------------------------------
+https://medium.com/@jaydeepvpatil225/containerize-the-net-core-7-web-api-with-docker-and-kubernetes-9dd23e392936
+
+.NET Microservices: Architecture for Containerized .NET Applications
+--------------------------------------------------------------------
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
+
+Deploy Kubernetes On-Premises Using CentOS 7 — Part 1
+-----------------------------------------------------
+https://medium.com/@sartak812/deploy-kubernetes-on-premises-using-centos-7-part1-4c61691b5520
+
+https://dev.to/jhooq/kubernetes-installation-on-centos-7-part2-527m
+
+AES-256-bit C++ encryption
+--------------------------
+https://github.com/SergeyBel/AES/blob/master/README.md
+
+Use below url for padding to 16 bytes that can be applied to the exmaple above to pad instead of exception.
+----------------------------------------------------------------------------------------------------------
+https://github.com/ceceww/aes/blob/master/encrypt.cpp
+
+One time pad algorithm in C++
+-----------------------------
+https://www.javatpoint.com/one-time-pad-algorithm-in-cpp
+								
+								
+	Clean Architecture, Domain Driven Design (DDD), Coding Patterns & Test Driven Design (TDD) Series - Milan Jovanović & Amichai Mantinband
+	----------------------------------------------------------------------------------------------------------------------------------------
+
+drewnoakes
+netmq
+-----
+https://github.com/zeromq/netmq/blob/master/src/NetMQ.Tests/ZMTPTests.cs
+
+
+Safari Books
+-------------
+https://github.com/booksbyus/zguide/blob/master/examples/CSharp/README.md
+
+Awesome Microservices .NET
+--------------------------
+https://github.com/mjebrahimi/Awesome-Microservices-DotNet?tab=readme-ov-file
+
+* The Beginner's Guide to Clean Architecture
+--------------------------------------------
+https://www.youtube.com/watch?v=TQdLgzVk2T8&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=51&ab_channel=MilanJovanovi%C4%87
+
+* Clean Architecture Project Setup From Scratch With .NET 7
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=fe4iuaoxGbA&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=30&ab_channel=MilanJovanovi%C4%87
+
+Domain Layer Structure & Skeleton | Clean Architecture & DDD From Scratch Tutorial | Part 13
+--------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=jnutb5Z4wyg&ab_channel=AmichaiMantinband
+
+ * The ULTIMATE Clean Architecture Project Template for .NET
+---------------------------------------------------------
+https://www.youtube.com/watch?v=DTmlhHu8tHA&ab_channel=AmichaiMantinband
+https://github.com/amantinband/clean-architecture
+
+* Clean Architecture With .NET 6 And CQRS - Project Setup
+---------------------------------------------------------
+https://www.youtube.com/watch?v=tLk4pZZtiDY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&ab_channel=MilanJovanovi%C4%87
+
+* Modeling a Domain With Domain-Driven Design From Scratch | DDD
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=fO2T5tRu3DE&ab_channel=MilanJovanovi%C4%87
+
+* How Strongly Typed IDs Can Make Your Code More Expressive | DDD
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=LdrMdIabE1o&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn&index=2&ab_channel=MilanJovanovi%C4%87
+
+Is an Anemic Domain Model an Anti-Pattern?
+------------------------------------------
+https://www.youtube.com/watch?v=6gwIDiUk2h4&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn&index=3&ab_channel=MilanJovanovi%C4%87
+
+Dependency Injection Deep Dive | .NET & C# Essentials
+-----------------------------------------------------
+https://www.youtube.com/watch?v=yjUCKSKCQxg&ab_channel=AmichaiMantinband
+
+* How To Use Domain-Driven Design In Clean Architecture
+-------------------------------------------------------
+https://www.youtube.com/watch?v=1Lcr2c3MVF4&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=4&ab_channel=MilanJovanovi%C4%87
+
+Mapping Domain-Driven Design Concepts To The Database With EF Core
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=IlXnIe6p_Uk&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn&index=4&ab_channel=MilanJovanovi%C4%87
+
+How Incomplete DDD Aggregates Can Improve Application Performance
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=cCnZJE0wEjY&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn&index=5&ab_channel=MilanJovanovi%C4%87
+
+* Use This Pattern To Design a Rich Domain Model With DDD
+-------------------------------------------------------
+https://www.youtube.com/watch?v=wi_wsw5Gp6Q&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=40&ab_channel=MilanJovanovi%C4%87
+
+What Is An Entity? | Domain-Driven Design, Clean Architecture, .NET 6
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=00tCda35Bvk&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=5&ab_channel=MilanJovanovi%C4%87
+
+Domain Validation With .NET | Clean Architecture, DDD, .NET 6
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=KgfzM0QWHrQ&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=5&ab_channel=MilanJovanovi%C4%87
+
+How to Use Value Objects to Solve Primitive Obsession
+-----------------------------------------------------
+https://www.youtube.com/watch?v=P5CRea21R2E&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=6&ab_channel=MilanJovanovi%C4%87
+
+Aggregate Root Design 101 | DDD, Clean Architecture, .NET 6
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=0D3EB2jvQ44&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=7&ab_channel=MilanJovanovi%C4%87
+
+How to Use the Domain Event Pattern | DDD, Clean Architecture, .NET 6
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=BimfDeDV4yU&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=8&ab_channel=MilanJovanovi%C4%87
+
+* CRUD REST API With Clean Architecture & DDD In .NET 7
+-----------------------------------------------------
+https://www.youtube.com/watch?v=nE2MjN54few&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=41&ab_channel=MilanJovanovi%C4%87
+
+I Broke My Domain Aggregate And Now I'm Trying To Fix It
+--------------------------------------------------------
+https://www.youtube.com/watch?v=BY8DHD6LitU&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=46&ab_channel=MilanJovanovi%C4%87
+
+Making Tradeoffs When Implementing Domain Business Rules - DDD CAP Theorem
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=eC7GMGIR4Gw&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=10&ab_channel=MilanJovanovi%C4%87
+
+Using Domain Events To Build A Decoupled System The Scales
+----------------------------------------------------------
+https://www.youtube.com/watch?v=AHzWJ_SMqLo&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=36&ab_channel=MilanJovanovi%C4%87
+
+Which Event Type Should You Publish in Event Driven Architecture?
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=K806a-rWE2g&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=37&ab_channel=MilanJovanovi%C4%87
+
+Where Should You Put Repository Interfaces In Clean Architecture?
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=rG090b5MRGo&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=39&ab_channel=MilanJovanovi%C4%87
+
+Vertical Slice Architecture Project Setup From Scratch
+------------------------------------------------------
+https://www.youtube.com/watch?v=msjnfdeDCmo&list=PLYpjLpq5ZDGv370qMB4PLF-PlGdBhP0PA&index=12&ab_channel=MilanJovanovi%C4%87
+
+Onion Architecture vs Clean Architecture Comparison
+---------------------------------------------------
+https://www.youtube.com/watch?v=KqWNtCpjUi8&ab_channel=MilanJovanovi%C4%87
+
+How to Write Architecture Tests for the Clean Architecture
+----------------------------------------------------------
+https://www.youtube.com/watch?v=_D6Kai4RdGY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=3&ab_channel=MilanJovanovi%C4%87
+
+The Best Way To Write Parameterized Tests In .NET Using xUnit
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=Pk2d-qm5KwE&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=38&ab_channel=MilanJovanovi%C4%87
+
+Transactional Outbox Pattern | Clean Architecture, .NET 6
+---------------------------------------------------------
+https://www.youtube.com/watch?v=XALvnX7MPeo&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=9&ab_channel=MilanJovanovi%C4%87
+
+CQRS Doesn't Have To Be Complicated | Clean Architecture, .NET 6
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=vdi-p9StmG0&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=11&ab_channel=MilanJovanovi%C4%87
+
+* How To Implement Validation With MediatR And FluentValidation (Gives a good folder layout of the Domain Structure)
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=85dxwd8HzEk&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=12&ab_channel=MilanJovanovi%C4%87
+
+How To Add Fault Handling In ASP.NET Core With Polly
+----------------------------------------------------
+https://www.youtube.com/watch?v=xajVttkZntU&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=13&ab_channel=MilanJovanovi%C4%87
+
+Handle Duplicate Messages With Idempotent Consumers | Idempotency
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=mGeEtokcjVQ&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=14&ab_channel=MilanJovanovi%C4%87
+
+Unit Testing CQRS Handlers With Moq, Fluent Assertions, and xUnit
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=a6Qab5l-VLo&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=15&ab_channel=MilanJovanovi%C4%87
+
+Why I Use The Unit of Work Pattern With EF Core | Clean Architecture
+--------------------------------------------------------------------
+https://www.youtube.com/watch?v=vN_j1Bs0ALU&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=16&ab_channel=MilanJovanovi%C4%87
+
+How To Create Smart Enums in C# With Rich Behavior
+--------------------------------------------------
+https://www.youtube.com/watch?v=v6cYTcEfZ8A&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=17&ab_channel=MilanJovanovi%C4%87
+
+Functional Programming With C# Using Railway-Oriented Programming Approach
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=dDasAmowFts&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=18&ab_channel=MilanJovanovi%C4%87
+
+Write Faster SQL Queries With Dapper In .NET | Clean Architecture
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=neH0_7bti_I&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=19&ab_channel=MilanJovanovi%C4%87
+
+How To Write Clean Code With The Help Of Static Code Analysis
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=0nVT1gM4vPg&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=20&ab_channel=MilanJovanovi%C4%87
+
+Structuring Dependency Injection In ASP.NET Core The Right Way
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=tKEF6xaeoig&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=21&ab_channel=MilanJovanovi%C4%87
+
+Clean Architecture With Document Database, Minimal APIs, And CQRS In .NET 7
+---------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Ru6_b50wdfo&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=22&ab_channel=MilanJovanovi%C4%87
+
+How To Organize Minimal API Endpoints Inside Of Clean Architecture
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=GCuVC_qDOV4&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=23&ab_channel=MilanJovanovi%C4%87
+
+Marten - Powerful Document Database With PostgreSQL And Clean Architecture
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=b-a7CQ_I7JI&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=24&ab_channel=MilanJovanovi%C4%87
+
+Solve Logging as a Cross-Cutting Concern with MediatR
+-----------------------------------------------------
+https://www.youtube.com/watch?v=JVX9MMpO6pE&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=25&ab_channel=MilanJovanovi%C4%87
+
+How Function Composition Can Make Your Code Better | Functional Programming
+---------------------------------------------------------------------------
+https://www.youtube.com/watch?v=zuy2j8vxgYc&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=26&ab_channel=MilanJovanovi%C4%87
+
+Domain-Driven Design Without An ORM Using The Snapshot Pattern
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=HhZ4DtON404&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=27&ab_channel=MilanJovanovi%C4%87
+
+What Is A Message Queue + RabbitMQ and MassTransit Integration
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=CTKWFMZVIWA&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=28&ab_channel=MilanJovanovi%C4%87
+
+Blazing Fast Caching Service In ASP.NET Core | Redis Compatible
+---------------------------------------------------------------
+https://www.youtube.com/watch?v=V_vdMQ5dpMw&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=29&ab_channel=MilanJovanovi%C4%87
+
+Why You Don't Need To Abstract Away EF Core With Clean Architecture
+-------------------------------------------------------------------
+https://www.youtube.com/watch?v=IGVRVO7KTss&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=31&ab_channel=MilanJovanovi%C4%87
+
+We Can Finally Publish Notifications In Parallel With MediatR 12
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=hNxVjNO6RX4&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=32&ab_channel=MilanJovanovi%C4%87
+
+Saga Pattern For Microservice Architecture With Rebus And RabbitMQ
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=dlXCodLxhag&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=33&ab_channel=MilanJovanovi%C4%87
+
+The INSANE Performance Boost Of CQRS Read Models
+------------------------------------------------
+https://www.youtube.com/watch?v=AVBAAKa84cs&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=34&ab_channel=MilanJovanovi%C4%87
+
+Cache Invalidation Doesn't Have To Be Hard
+------------------------------------------
+https://www.youtube.com/watch?v=YdEbD53c8Bs&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=35&ab_channel=MilanJovanovi%C4%87
+
+Discovering The Truth About CQRS - No MediatR Required
+-------------------------------------------------------
+https://www.youtube.com/watch?v=F3xNCfP3Xew&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=42&ab_channel=MilanJovanovi%C4%87
+
+EF Core In The CQRS Query Side... Or Something Else?
+----------------------------------------------------
+https://www.youtube.com/watch?v=RgqCavV2cqQ&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=43&ab_channel=MilanJovanovi%C4%87
+
+Unit of Work Is Even Better With MediatR + TransactionScope
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=sSIg3fpflI0&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=44&ab_channel=MilanJovanovi%C4%87
+
+How To Speed Up Your Queries With Materialized Views
+-----------------------------------------------------
+https://www.youtube.com/watch?v=2ZNMlx44gKQ&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=45&ab_channel=MilanJovanovi%C4%87
+
+Make Your Business Rules Cleaner With Fluent Validation
+-------------------------------------------------------
+https://www.youtube.com/watch?v=AYrmu9_RFnM&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=47&ab_channel=MilanJovanovi%C4%87
+
+How To Make Your API Idempotent To Stop Duplicate Requests
+----------------------------------------------------------
+https://www.youtube.com/watch?v=smXAgcdJzLc&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=48&ab_channel=MilanJovanovi%C4%87
+
+Get Rid of Exceptions in Your Code With the Result Pattern
+----------------------------------------------------------
+https://www.youtube.com/watch?v=WCCkEe_Hy2Y&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=49&ab_channel=MilanJovanovi%C4%87
+
+The New Global Error Handling in ASP.NET Core 8
+-----------------------------------------------
+https://www.youtube.com/watch?v=uOEDM0c9BNI&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa&index=50&ab_channel=MilanJovanovi%C4%87
+
+Authentication made easy with ASP.NET Core Identity in .NET 8
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=S0RSsHKiD6Y&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&start_radio=1&rv=S0RSsHKiD6Y&t=6&ab_channel=MilanJovanovi%C4%87
+
+Introduction To Permission Authorization In ASP.NET Core 7 | Permission Authorization - Part 1
+----------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=PlbAuNvR16s&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=12&ab_channel=MilanJovanovi%C4%87
+
+Elegant Global Error Handling Using Middleware In ASP.NET Core
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=H3EbflpXVmo&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=11&ab_channel=MilanJovanovi%C4%87
+
+Getting Started With MassTransit (Beginner Friendly)
+----------------------------------------------------
+https://www.youtube.com/watch?v=4squjqvE8g0&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=10&ab_channel=MilanJovanovi%C4%87
+
+Automatically Register Minimal APIs in ASP.NET Core | REPR Pattern
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=CkGFV5bekbY&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=15&ab_channel=MilanJovanovi%C4%87
+
+7 Serilog Best Practices for Better Structured Logging
+-------------------------------------------------------
+https://www.youtube.com/watch?v=w7yDuoCLVvQ&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=14&ab_channel=MilanJovanovi%C4%87
+
+How Structured Logging With Serilog Can Make Your Life Easier
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=nVAkSBpsuTk&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=32&ab_channel=MilanJovanovi%C4%87
+
+Automatically Register Minimal APIs in ASP.NET Core | REPR Pattern
+-------------------------------------------------------------------
+https://www.youtube.com/watch?v=CkGFV5bekbY&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=15&ab_channel=MilanJovanovi%C4%87
+
+Don't Make This Common Domain Events Mistake
+--------------------------------------------
+https://www.youtube.com/watch?v=5L2BUuSdZBI&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=17&ab_channel=MilanJovanovi%C4%87
+
+The Best .NET REST API Client You Didn't Know About
+---------------------------------------------------
+https://www.youtube.com/watch?v=pJDIdIcOH6s&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=18&ab_channel=MilanJovanovi%C4%87
+
+How to Implement API Versioning for Minimal APIs | ASP.NET Core 8
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=F9j3X6KuIpw&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=19&ab_channel=MilanJovanovi%C4%87
+
+Get Rid of Exceptions in Your Code With the Result Pattern
+----------------------------------------------------------
+https://www.youtube.com/watch?v=WCCkEe_Hy2Y&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=21&ab_channel=MilanJovanovi%C4%87
+
+2 Best Practices for Returning API Errors in ASP.NET Core
+---------------------------------------------------------
+https://www.youtube.com/watch?v=YBK93gkGRj8&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=28&ab_channel=MilanJovanovi%C4%87
+
+Structuring Dependency Injection In ASP.NET Core The Right Way
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=tKEF6xaeoig&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=33&ab_channel=MilanJovanovi%C4%87
+
+5 Awesome Refactoring Tips To Clean Up Your Code
+-------------------------------------------------
+https://www.youtube.com/watch?v=aA7abnW_Q1s&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=32&ab_channel=MilanJovanovi%C4%87
+
+The Best Way to Run Integration Tests in Your CI/CD Pipeline
+------------------------------------------------------------
+https://www.youtube.com/watch?v=YtF0rzIYgEk&list=RDCMUCC_dVe-RI-vgCZfls06mDZQ&index=44&ab_channel=MilanJovanovi%C4%87
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+.NET Core Microservices - The Complete Guide (.NET 6 MVC)
+---------------------------------------------------------
+https://learning.oreilly.com/videos/net-core-microservices/9781803247793/9781803247793-video4_2/
+
+Introduction to .NET Microservices (.NET 8)
+-------------------------------------------
+https://www.youtube.com/watch?v=Nw4AZs1kLAs&ab_channel=DotNetMastery
+
+https://github.com/bhrugen/Mango_Microservices/blob/master/Mango.sln
+
+RF-based home automation using Raspberry Pi (Part 1)
+----------------------------------------------------
+
+https://binesh-amarasekara.medium.com/rf-based-home-automation-using-raspberry-pi-part-1-b2226c7068da
+
+ASN1
+----
+https://github.com/vlm/asn1c/blob/master/README.md
+
+objective systems asn1
+----------------------
+https://obj-sys.com/docs/acv75/acv75CCppUsersGuide.pdf
+
+
+Defining Your Protocol Format google protocol buffers
+-----------------------------------------------------
+https://protobuf.dev/getting-started/cpptutorial/
+
+GitLab
+------
+https://www.youtube.com/watch?v=PGyhBwLyK2U&ab_channel=freeCodeCamp.org
+
+Set up continuous integration for .NET Core with OpenShift Pipelines
+--------------------------------------------------------------------
+https://developers.redhat.com/blog/2020/09/24/set-up-continuous-integration-for-net-core-with-openshift-pipelines#
+
+
+.NET Microservices – Full Course for Beginners @2:26 min in.
+----------------------------------------------
+https://www.youtube.com/watch?v=CqCDOosvZIk&ab_channel=freeCodeCamp.org
+
+.NET Microservices – Full Course
+--------------------------------
+https://www.youtube.com/watch?v=DgVjEo3OGBI&ab_channel=LesJackson
+
+Full Course - Learn ASP.NET Core MVC in .NET 8 | CRUD Operations | EntityFramework | MVC Tutorial
+-------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=BzlPrVB_DwA&t=41s&ab_channel=FrankLiu
+
+Asp.Net Core - Dependency Injection - Deep Dive [Audio Fixed] (Watched 27 Apr 2024 but aborted as pre .Net Core version 6. Includes Startup.cs which is depricated now in 8.0)
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=ORAfsRukNc4&ab_channel=MohamadLawand
+
+**************************************************************************************************************************************
+
+The Beginner's Guide to Clean Architecture (watched 4 May 2024)
+------------------------------------------
+https://www.youtube.com/watch?v=TQdLgzVk2T8&list=PLYpjLpq5ZDGv370qMB4PLF-PlGdBhP0PA&index=23&ab_channel=MilanJovanovi%C4%87
+
+
+How I Use The Generic Repository Pattern In Clean Architecture
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=kwehxBDX_o8&ab_channel=MilanJovanovi%C4%87
+
+Clean Architecture Project Setup From Scratch With .NET 7
+----------------------------------------------------------
+https://www.youtube.com/watch?v=fe4iuaoxGbA&list=PLYpjLpq5ZDGv370qMB4PLF-PlGdBhP0PA&ab_channel=MilanJovanovi%C4%87
+
+How I Use The Generic Repository Pattern In Clean Architecture
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=kwehxBDX_o8&ab_channel=MilanJovanovi%C4%87
+
+https://www.milanjovanovic.tech/pragmatic-clean-architecture?utm_source=YouTube&utm_medium=description&utm_campaign=youtube-description#pricing
+
+Make Your ASP.NET Core API Controllers Incredibly Simple
+--------------------------------------------------------
+https://www.youtube.com/watch?v=AVA2mKG4WOc&ab_channel=MilanJovanovi%C4%87
+
+----------------------------------------------------------------------------
+Use These 4 Best Practices For Your .NET Project Setup (watched 4 May 2024)!
+----------------------------------------------------------------------------
+https://www.youtube.com/watch?v=B9ZUJN1Juhk&ab_channel=MilanJovanovi%C4%87
+
+
+----------------------------------------------------------------------------
+Using Separate Read/Write Models with EF Core and CQRS (watched 4 May 2024)!
+-----------------------------------------------------------------------------
+https://www.youtube.com/watch?v=iKDITShiZy4&list=PLYpjLpq5ZDGv370qMB4PLF-PlGdBhP0PA&index=10&ab_channel=MilanJovanovi%C4%87
+
+------------------------------------------------------------------------
+!.NET 8 : Exploring Dependency Injection Features (watched 27 Apr 2024)!
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=10kCqQWJmQM&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=22&ab_channel=MohamadLawand
+
+----------------------------------------------------------------------------------------
+!AddSingleton(), AddScoped() & AddTransient() in a .NET 7 Web API (watched 27 Apr 2024)!
+----------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Pb2VZWoHSnA&ab_channel=PatrickGod
+
+--------------------------------------------------------------------------------------------------
+!.NET : What are Middlewares and how we can leverage our APIs with it?! watched 27 Apr 2024)!
+--------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=kCanUtCts-c&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&start_radio=1&t=15s&ab_channel=MohamadLawand
+
+-----------------------------------------------------------------
+!.NET 6 - Web API Global Exceptions Handling (watched 22 Apr 24)!
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=fBXOgrZ3ZC4&ab_channel=MohamadLawand
+
+----------------------------------------------------------------------------------------------
+!ASP.NET Core 8 - Exception handlers (goodbye error handling middlewares) (watched 28 Apr 24)!
+----------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=f4zMGR3m70Y&ab_channel=FullstackDev
+
+Coding Shorts: ASP.NET 8 - New Exception handling
+-------------------------------------------------
+https://www.youtube.com/watch?v=0hh9v6Y_cOg&ab_channel=ShawnWildermuth
+
+LOGGING in ASP.NET Core | Getting Started With ASP.NET Core Series
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=dxBlBltEDRs&ab_channel=RahulNath
+
+------------------------------------------------------------
+!.NET 6 - Web API Logging with WatchDog (watched 25 Apr 24)!
+------------------------------------------------------------
+https://www.youtube.com/watch?v=LO-QKMHK5ps&ab_channel=MohamadLawand
+
+-----------------------------------------------------
+!.NET 6 - Web API Correlation Id (watched 25 Apr 24)!
+-----------------------------------------------------
+https://www.youtube.com/watch?v=y0CQmwRllvQ&ab_channel=MohamadLawand
+
+----------------------------------------------------------------
+!.NET 8 : Understanding CORS with ASP.NET (watched 26 Apr 2024)!
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=WAKsZwzXhf4&ab_channel=MohamadLawand
+
+-----------------------------------------------------
+!.NET 6 PostgreSQL and EF Core (watched 27 Apr 2024)!
+-----------------------------------------------------
+https://www.youtube.com/watch?v=FoYsxFBY1os&ab_channel=MohamadLawand
+
+-------------------------------------------------------------
+!.NET 6 Advance PostgreSQL and EF Core (watched 27 Apr 2024)!
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=ApZSICk99RA&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=29&ab_channel=MohamadLawand
+
+-------------------------------------------------------------------------------
+! Build CRUD with .NET 6 Web API & Entity Framework Core (watched 27 Apr 2024)!
+-------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=wtFs4356xp4&ab_channel=MohamadLawand
+
+.NET 7 - Build CRUD with Web API / EF Core / Repository Pattern
+---------------------------------------------------------------
+https://www.youtube.com/watch?v=nIOqO5N2_ss&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=30&ab_channel=MohamadLawand
+
+.NET 7 - Build CRUD with Web API / EF Core / Repository Pattern
+---------------------------------------------------------------
+https://www.youtube.com/watch?v=nIOqO5N2_ss&ab_channel=MohamadLawand
+
+-------------------------------------------------------------------------
+Fix Your Controllers By Refactoring To Minimal APIs (watched 4 May 2024)!
+-------------------------------------------------------------------------
+https://www.youtube.com/watch?v=gsAuFIhXz3g&ab_channel=MilanJovanovi%C4%87
+
+.NET : Minimal API with EF Core and SQLite
+-----------------------------------------------
+https://www.youtube.com/watch?v=tTIId8jZTJs&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 🚀🔥 : Mastering EF Core Performance: Tips, Tricks, and Best Practices
+---------------------------------------------------------------------------
+https://www.youtube.com/watch?v=FMhhp56qCAQ&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+
+-------------------------------------------------------------
+The RIGHT Way To Use HttpClient In .NET (watched 4 May 2024)!
+-------------------------------------------------------------
+https://www.youtube.com/watch?v=g-JGay_lnWI&ab_channel=MilanJovanovi%C4%87
+
+RAbbitMQ Masstransit
+---------------------
+https://masstransit.io/documentation/transports/rabbitmq
+
+How to use MassTransit 8.0.13 , RabbitMQ with AspNetCore
+--------------------------------------------------------
+https://medium.com/@bantyder/how-to-use-masstransit-8-0-13-rabbitmq-with-aspnetcore-7e199998b92d
+
+.NET : Seamless Messaging in .NET: Integrating MassTransit with RabbitMQ for Robust Systems!
+--------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=MiFpExkKRgA&ab_channel=MohamadLawand
+
+--------------------------------------------
+.NET Core and RabbitMQ (watched 3 May 2024)!
+--------------------------------------------
+https://medium.com/@giorgos.dyrrahitis/net-core-and-rabbitmq-5f3c76f39de6
+
+.NET Core and RabbitMQ
+----------------------
+https://medium.com/@giorgos.dyrrahitis/net-core-and-rabbitmq-5f3c76f39de6
+
+Build a Simple ZeroMQ in CSharp
+-------------------------------
+https://www.youtube.com/watch?v=9H3xqXKAU3A&ab_channel=StatisticsandRiskModeling
+
+.NET 6 - Message Broker with RabbitMQ 
+--------------------------------------
+https://www.youtube.com/watch?v=eEipVEq8F1k&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=31&ab_channel=MohamadLawand
+
+.NET 7 - With MongoDB
+--------------------------------
+https://www.youtube.com/watch?v=7NN6xR_Pfx4&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+----------------------------------------------------------------------------------------
+!.NET 8 : Guide to AutoMapper - Simplify Your Object Mapping (watched 27 Apr 2024)!
+----------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=87fhsf8gfDg&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+--------------------------------------------------------------------------
+!.NET 6 - AutoMapper & Data Transfer Objects (DTOs) (watched 28 Apr 2024)!
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Wm7hN0S-AdU&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 : Optimise Web API with Data Annotation
+---------------------------------------------------
+https://www.youtube.com/watch?v=qbgBg8YLrck&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 : Guide to Telemetry and Metrics - Exploring new Features
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=EAM506_H-vY&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+------------------------------------------------------------------------
+[EP 1] Creating an API - Code with me Asp.Net Core (watched 2 May 2024)!
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=2UlQMx3DuV0&ab_channel=MohamadLawand
+
+---------------------------------------------------------------------------------
+[EP 2] Building an API - Adding Unit of Work, API Versioning (watched 2 May 2024)!
+----------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=uSNqKQEtRdw&t=12s&ab_channel=MohamadLawand
+
+[EP 3] Building an API - Adding JWT Authentication (Register, Login) and Authorisation
+--------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=oWPiBHh3eNc&ab_channel=MohamadLawand
+
+[EP 4] Building an API - Adding JWT Refresh Token
+-------------------------------------------------
+https://www.youtube.com/watch?v=z6gX8yC6AZk&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&start_radio=1&t=15s&ab_channel=MohamadLawand
+
+[EP 5] Building an API - Utilising JWT Tokens
+---------------------------------------------
+https://www.youtube.com/watch?v=GmE_7wQ4Xwc&ab_channel=MohamadLawand
+
+[EP 6] Building an API - Upgrade from .Net 5 to .Net 6
+-------------------------------------------------------
+https://www.youtube.com/watch?v=gbGS3K3NCMY&ab_channel=MohamadLawand
+
+[EP 7] Building an API - AutoMapper / Unified API Response / Db Entity
+----------------------------------------------------------------------
+https://www.youtube.com/watch?v=jmHKWdMzihY&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+[EP 8] Building an API - IaC / Terraform / Docker / Azure
+----------------------------------------------------------
+https://www.youtube.com/watch?v=TloVVlIkrDs&ab_channel=MohamadLawand
+
+
+.NET 6 Web API Create JSON Web Tokens (JWT) - User Registration / Login / Authentication
+----------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Y-MjCw6thao&ab_channel=MohamadLawand
+
+.NET 6 Web API Create Refresh Tokens - JSON Web Tokens (JWT)
+------------------------------------------------------------
+https://www.youtube.com/watch?v=2_H0Zj-C8EM&ab_channel=MohamadLawand
+
+.NET 8 🔥🚀 : Guide to Secure User Authentication - Exploring Identity new Features
+-----------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=ORzt0lks2H4&ab_channel=MohamadLawand
+
+.NET 🚀🔥 : API Security: A Comprehensive Guide to Safeguarding Your APIs with API Keys
+---------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=XabkK84CKI8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=23&ab_channel=MohamadLawand
+
+.NET 8 🔥🚀 : Guide to Secure User Authentication - Exploring Identity new Features
+-----------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=ORzt0lks2H4&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+Asp Net Core - Rest API Authorization with JWT (Roles Vs Claims Vs Policy) - Step by Step
+-----------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=eVxzuOxWEiY&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=30&ab_channel=MohamadLawand
+
+Build Secured .NET 8 APIs With Custom JWT Authentication & Authorization using Identity Manager! 
+------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=owk9faapaBs&ab_channel=Netcode-Hub
+
+ASP.NET 7 JWT Authentication and Role-Based Authorization | ASP.NET Web API
+---------------------------------------------------------------------------
+https://www.youtube.com/watch?v=KRVjIgr-WOU&ab_channel=DevEmpower
+
+Tech Topic🔥🚀 : What is OAuth? and why do we need it?
+-------------------------------------------------------
+https://www.youtube.com/watch?v=FLqLtTvghYY&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=29&ab_channel=MohamadLawand
+
+.NET 7 -- How to containerise Web API with Docker & use PostgreSQL
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=9ZEbJT36-Uk&ab_channel=MohamadLawand
+
+Making A WebSocket Server With .NET 8🧑‍💻 [FULLSTACK 2024 VIDEO 1]
+----------------------------------------------------------------
+https://www.youtube.com/watch?v=G5b1Zd367sA&ab_channel=Alex%27sDevDen%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB
+
+Event-Driven Architecture For Websockets With .NET 8 & C# 🛠️ [FULLSTACK 2024 VIDEO 2]
+-------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=nKCCoZmV2ls&ab_channel=Alex%27sDevDen%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB
+
+.NET 8 🔥🚀 : Primary Constructors - Exploring new Features
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=FFch4roDMbE&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=29&ab_channel=MohamadLawand
+
+.NET 🔥🚀 Unlock Hidden C# Powers: Code Like a Pro!"
+-----------------------------------------------------
+https://www.youtube.com/watch?v=0wTiFghrwRc&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=29&ab_channel=MohamadLawand
+
+Kubernetes - Create your own k8s cluster step by step
+-----------------------------------------------------
+https://www.youtube.com/watch?v=k3iexxiYPI8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+-----------------------------------------------------------------
+.NET 7 - Deploy .NET Apps to Kubernetes (watched 28 Apr 2024)!
+-----------------------------------------------------------------
+https://www.youtube.com/watch?v=x9NptrXA1dM&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=34&ab_channel=MohamadLawand
+
+.NET 8 .🚀🔥: Integrating Docker with a .NET Web API - A Step-by-Step Guide
+---------------------------------------------------------------------------
+https://www.youtube.com/watch?v=_wp2zJHs9l0&ab_channel=MohamadLawand
+
+.NET : Mastering .NET Development with TDD with XUNIT
+------------------------------------------------------------------------
+https://www.youtube.com/watch?v=7YghGdGE7d0&ab_channel=MohamadLawand
+
+Learn Unit Test with .Net 6 with xUnit and MOQ
+----------------------------------------------
+https://www.youtube.com/watch?v=AW7ZcMOtwC8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=33&ab_channel=MohamadLawand
+
+.NET 🔥🚀 : Api versioning and why do we need it?
+-------------------------------------------------
+https://www.youtube.com/watch?v=C-KNM5S48po&ab_channel=MohamadLawand
+
+.NET 8.🚀🔥: What is Docker? Integrating Docker with a .NET Web API - A Step-by-Step Guide
+-------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=ZyTzy3P_lP8&ab_channel=MohamadLawand
+
+.NET 7 - Intro to Background Services (Hangfire) with ASP.NET Core Web Api 
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=cvpSx10z5Og&ab_channel=MohamadLawand
+
+.NET 8 💥 - ASP.NET Core Request TimeOut
+----------------------------------------
+https://www.youtube.com/watch?v=B1taXbnAvx4&ab_channel=MohamadLawand
+
+.NET 💥 - Web API Securing and Tracking Data Change
+---------------------------------------------------
+https://www.youtube.com/watch?v=R0h4wNGIyeI&ab_channel=MohamadLawand
+
+.NET 8 💥 - Web API Health Checks
+---------------------------------
+https://www.youtube.com/watch?v=XTbxWQejbzs&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=6&ab_channel=MohamadLawand
+
+.NET 8 💥 - ASP.NET Core JSON Serialisation
+-------------------------------------------
+https://www.youtube.com/watch?v=iFsq5PlVozY&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=13&ab_channel=MohamadLawand
+
+.NET 🔥🚀 : What are Minimal API?
+---------------------------------
+https://www.youtube.com/watch?v=lTWmowB-ld8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=17&ab_channel=MohamadLawand
+
+.NET 7 💥 - Blazor CRUD with Web API
+------------------------------------
+https://www.youtube.com/watch?v=Ki53HNV613g&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=18&ab_channel=MohamadLawand
+
+.NET 8 💥 - ASP.NET Core App Settings
+-------------------------------------
+https://www.youtube.com/watch?v=bpW9z7H4_ZQ&ab_channel=MohamadLawand
+
+Intro to Docker - Step by Step
+------------------------------
+https://www.youtube.com/watch?v=wBfp54is5Ns&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=41&ab_channel=MohamadLawand
+
+.NET 8 💥 - WebAPI and Docker Compose
+-------------------------------------
+https://www.youtube.com/watch?v=hD3-eflnE-E&ab_channel=MohamadLawand
+
+.NET 8 🔥🚀 : Guide to Web API AOT - Exploring new Features
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=xpZVO6qw964&ab_channel=MohamadLawand
+
+.NET 8 💥 - ASP.NET Core Web API Filters
+-----------------------------------------
+https://www.youtube.com/watch?v=ZvxXK0AuFIQ&ab_channel=MohamadLawand
+
+.NET 7 💥 - ASP.NET Core ElasticSearch, Kibana & Serilog Integration
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=zp6A5QCW_II&ab_channel=MohamadLawand
+
+.NET 8 : Bye Docker, Hello Podman: Revolutionize Your Web APIs!
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=sSGVqblVzbA&ab_channel=MohamadLawand
+
+.NET 7 💥 - Integrate OpenAI ChatGPT with Web API
+--------------------------------------------------
+https://www.youtube.com/watch?v=EHPPg5HGVxU&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=24&ab_channel=MohamadLawand
+
+.NET 8 🔥🚀 : Boost .NET API Performance
+-----------------------------------------
+https://www.youtube.com/watch?v=l6CrNTH6OOU&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 7 💥 - ASP.NET Core Web API In-Memory Caching
+--------------------------------------------------
+https://www.youtube.com/watch?v=GkLdufOVXjI&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 Blazor : Building Dynamic CRUD Apps with Ease
+-----------------------------------------------------------
+https://www.youtube.com/watch?v=aPx5vyk00D8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 Blazor : Dynamic Input Validation
+----------------------------------------------
+https://www.youtube.com/watch?v=L3xf02yXlqQ&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=31&ab_channel=MohamadLawand
+
+.NET 7 💥 - ASP.NET Core Web API Rate Limiting
+----------------------------------------------
+https://www.youtube.com/watch?v=bOfOo3Zsfx0&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 : Building a Real-Time Chat App with .NET SignalR and React A Step by Step Tutorial
+-----------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=pvi_ZS_PrSc&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+User Registration - Verify/Confirm Email with a .NET 6 Web API
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=euDyxWDgSUU&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+A.I. Writing .NET C# Code - ChatGPT
+-----------------------------------
+https://www.youtube.com/watch?v=_X0-RE8c-yU&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET : New Features of .NET 8 Unveiled
+--------------------------------------------------
+https://www.youtube.com/watch?v=2PE892d6tZE&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+.NET 7 - Polly 🐦 Fault Handling / Resiliency / Retry Policy / Circuit Breaker
+---------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=_Q3dTJJgICs&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+Understanding API Rate Limits: Purpose, Types, and Essential Insights
+----------------------------------------------------------------------
+https://www.youtube.com/watch?v=LVl2Lftj8A8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+C# : Features you might not know - Part 2
+-----------------------------------------------
+https://www.youtube.com/watch?v=gnGUxkKQfI8&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET 8 : Guide to Code Access with Attributes - Exploring new Features
+----------------------------------------------------------------------------
+https://www.youtube.com/watch?v=_FT169WtzOk&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=28&ab_channel=MohamadLawand
+
+.NET 8 - WebAPI and Docker Compose
+-------------------------------------
+https://www.youtube.com/watch?v=hD3-eflnE-E&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+Step by step guide on utilising Docker Compose with Asp.Net Core, SQL Server
+----------------------------------------------------------------------------
+https://www.youtube.com/watch?v=zrzdRINyYdM&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+Blazor WASM with REST API - Step by Step
+----------------------------------------
+https://www.youtube.com/watch?v=87DRaPlvqT4&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=27&ab_channel=MohamadLawand
+
+.NET : Step-by-Step Guide: Integrating DynamoDB with .NET Applications
+-------------------------------------------------------------------------
+https://www.youtube.com/watch?v=SO66I5zoFko&list=RDCMUC9ao0wlk--d-bsjnCHBKDzA&index=29&ab_channel=MohamadLawand
+
+Clean Architecture Project Setup From Scratch With .NET 7
+---------------------------------------------------------
+https://www.youtube.com/watch?v=fe4iuaoxGbA&list=PLYpjLpq5ZDGv370qMB4PLF-PlGdBhP0PA&ab_channel=MilanJovanovi%C4%87
+
+
+.NET 6 - Web API Caching with Redis
+-----------------------------------
+https://www.youtube.com/watch?v=6HZVu3kGOrg&ab_channel=MohamadLawand
+
+
+**************************************************************************************************************************************
+
+Exporting C++ DLL - Calling C++ Functions From C# Project (watched 26 Apr 2024)
+---------------------------------------------------------
+https://www.youtube.com/watch?v=H8BHCZ6q80M&ab_channel=CodingExpress
+
+
+.NET Core Sample App for OpenShift Pipelines
+--------------------------------------------
+https://github.com/redhat-developer/s2i-dotnetcore-ex/blob/dotnetcore-3.1-openshift-manual-pipeline/README.adoc
+
+Containerize the .NET Core 7 Web API with Docker and Kubernetes
+---------------------------------------------------------------
+https://medium.com/@jaydeepvpatil225/containerize-the-net-core-7-web-api-with-docker-and-kubernetes-9dd23e392936
+
+Jaydeep-007/NET_Core_WebAPI_Kubernetes_Demo
+-------------------------------------------
+https://github.com/Jaydeep-007/NET_Core_WebAPI_Kubernetes_Demo/blob/master/deployment.yml
+
+
+Mango_Microservices/Mango.Web/Controllers/HomeController.cs
+-----------------------------------------------------------
+
+https://github.com/bhrugen/Mango_Microservices/blob/master/Mango.Web/Controllers/HomeController.cs
+
+Async and Await in C#: Full Guide
+---------------------------------
+https://www.bytehide.com/blog/async-await-csharp
+
+C# documentation
+----------------
+https://learn.microsoft.com/en-us/dotnet/csharp/
+
+C# Advanced
+-----------
+https://www.youtube.com/watch?v=YT8s-90oDC0&ab_channel=freeCodeCamp.org
+
+.NET Microservices: Architecture for Containerized .NET Applications
+--------------------------------------------------------------------
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
+
+file:///home/chronos/u-e5613f4d232f80b9693681bc930ebeb5e4fde852/MyFiles/Downloads/GreenHills/NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf
+
+Pragmatic Test-Driven Development in C# and .NET
+------------------------------------------------
+https://learning.oreilly.com/library/view/pragmatic-test-driven-development/9781803230191/B18370_02.xhtml#_idParaDest-43
+
+How To Deploy MongoDB on Kubernetes – Beginners Guide
+-----------------------------------------------------
+
+https://devopscube.com/deploy-mongodb-kubernetes/
+git clone https://github.com/techiescamp/kubernetes-mongodb
